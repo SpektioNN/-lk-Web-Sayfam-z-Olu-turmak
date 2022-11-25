@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+    text-align: left;
+}
+.ortala{
+    width:500px;
+    height: 250px;
+    display: table;
+    position: relative;
+    overflow: hidden;
+    text-align:center;
+    margin:0 auto;
+  }
